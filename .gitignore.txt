@@ -1,0 +1,17 @@
+# Файли Visual Studio
+.vs/
+*.suo
+*.user
+
+# Файли компіляції
+Debug/
+Release/
+x64/
+x86/
+ipch/
+
+# Тимчасові файли
+*.obj
+*.exe
+*.pdb
+*.log
